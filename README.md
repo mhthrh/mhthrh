@@ -29,9 +29,11 @@ This project is currently **under production** and is built using the following 
 - **customer-service**: Manages customer data and performs customer-related operations like registration, update, and retrieval.
   
 - **address-service**: Manages customer addresses and provides functionality for adding, updating, and retrieving address details.
-- **account-service**: manage accounts
-- **loan-service**: manage loan
-- **..........**: will complete 
+- **account-service**: manage accounts.
+- **loan-service**: manage loan.
+- **..........**: will complete
+- **x-bank-db**:The database structure, migration tool, and data seeding for X-Bank.
+- **vault**: manage security and config data.
 - **GoNest**: Handles package management, model management, and includes a **common library** for shared functionality and utilities across the services.  
   - **Package Management**: Manages data related to packages.
   - **Model Management**: Handles models used across microservices for consistent data representation.
