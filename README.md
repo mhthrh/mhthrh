@@ -1,5 +1,5 @@
 
-🚀 **Senior Backend Developer** with 12+ years of experience in **Golang, C#, Microservices, and Cloud Computing**.  
+ **Senior Backend Developer** with 12+ years of experience in **Golang, C#, Microservices, and Cloud Computing**.  
 🔹 Passionate about **high-performance systems, scalability, and clean code**.  
 🔹 Experienced in **distributed systems, database optimization, and fintech solutions**.  
 🔹 Love **mentoring developers** and improving **engineering best practices**.
