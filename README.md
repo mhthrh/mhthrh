@@ -35,7 +35,6 @@ This project is currently **under production** and is built using the following 
 ### Microservices
 
 - **customer-service**: Manages customer data and performs customer-related operations like registration, update, and retrieval.
-  
 - **address-service**: Manages customer addresses and provides functionality for adding, updating, and retrieving address details.
 - **account-service**: manage accounts.
 - **loan-service**: manage loan.
